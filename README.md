@@ -18,7 +18,7 @@
 
 - :school: I am a `Senior` at [Ton Duc Thang University](https://www.tdtu.edu.vn/en) in the **Computer Science** department.
 - :technologist: **Currently working on** `Web Development` **&** `Mobile App Development`
-- :boom: You can visit [MY WEBSITE](https://kelvindev-portfolio.vercel.app/)) to explore some of my projects and learn more.
+- :boom: You can visit [MY WEBSITE](https://kelvindev-portfolio.vercel.app/) to explore some of my projects and learn more.
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=Email&message=Khoa&color=EA4335&style=flat-square)](mailto:danggkhoaa1512@gmail.com)
 - :nerd_face: Always believe `"Learning is the key to growth!"`
 
